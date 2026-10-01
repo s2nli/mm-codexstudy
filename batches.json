@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "super-100",
+      "name": "Super 100",
+      "byName": "Dedicated for SSC CGL Exams",
+      "language": "Hinglish",
+      "previewImage": "assets/super100-banner.jpg",
+      "type": "RECORDED",
+      "slug": "super-100",
+      "validity": "1 year",
+      "contentUrl": "content/super-100.json",
+      "searchTerms": "maths foundation vod ssc cgl imr art of skipping percentage",
+      "subBatches": []
+    }
+  ]
+}
